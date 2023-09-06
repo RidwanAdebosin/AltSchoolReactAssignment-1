@@ -1,0 +1,49 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.container {
+background-color:#fff;
+border-radius: 20px;
+padding: 30px;
+box-shadow:20px 25px 20px rgb(175, 114, 114);
+}
+
+.button {
+  display: flex;
+
+}
+
+body {
+  background-color: rgb(231, 185, 185);
+}
+
+.operation-keys {
+  margin-block-start: 20px;
+  display: flex;
+  gap: 5px;
+}
+
+.button:hover {
+  transform: translateY(2px);
+}
+
+.card {
+  padding: 2em;
+  cursor: pointer;
+}
+
+p {
+  cursor: pointer;
+  background-color: rgb(213, 217, 219);
+  padding: 5px;
+}
+
+.count{
+  color: blue;
+  font-size: 40px;
+  font-weight: 800;
+}
