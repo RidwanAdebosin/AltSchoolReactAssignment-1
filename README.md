@@ -1,8 +1,13 @@
-# React + Vite
+# Counter App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This application allow user to perform some basic counting operations like
+-Adding 1 to an initial value
+-Adding 10 to an initial value
+-Refreshing the counter board to zero
+Getting Random numbers between 1 - 100
+-Substracting 1 from an initial value
+-Substracting 10 from an initial value
 
 Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+You can use the app here [Counter App](https://lustrous-crepe-1acead.netlify.app/)
